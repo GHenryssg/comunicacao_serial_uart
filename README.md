@@ -3,6 +3,9 @@
 Este projeto tem como objetivo demonstrar o uso de diferentes componentes eletrônicos conectados à placa BitDogLab, incluindo uma matriz de LEDs WS2812, um LED RGB, botões e um display SSD1306. O projeto foi desenvolvido para explorar conceitos como interrupções, debouncing, controle de LEDs, comunicação serial e uso de displays gráficos.
 
 ## Componentes Utilizados
+Vídeo de demonstração: https://youtube.com/shorts/TYfx-iky6-E?si=kRBImIPmEKrXiGvW
+
+## Componentes Utilizados
 
 - **Matriz 5x5 de LEDs WS2812**: Conectada à GPIO 7.
 - **LED RGB**: Conectado às GPIOs 11 (vermelho), 12 (verde) e 13 (azul).
